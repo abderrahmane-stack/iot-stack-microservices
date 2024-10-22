@@ -19,9 +19,11 @@ This project contains two main parts:
 
 ## Important Configuration Notes
 1. Replace "YOUR_SSID" and "YOUR_PASSWORD" with your actual Wi-Fi network details :
+   
    ```bash
    const char* ssid = "YOUR_SSID";
    const char* password = "YOUR_PASSWORD";
+   
 2. Make sure to update the IP address for any networked services .
 
    
